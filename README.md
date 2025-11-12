@@ -1,2 +1,3 @@
 # PWA-Storefront
 This is the mini project or the capstone project of Full Stack 1 for the final practical
+SnapCart is a modern, full-stack Progressive Web App (PWA) shopping platform created as a capstone college project. It features instant search, responsive product catalog, offline support, and a persistent shopping cart powered by React, Express.js, and MongoDB. The application includes a real-time checkout system, polished branded UI with light/dark mode, and a built-in AI chatbot for customer questions and FAQs. Designed for both desktop and mobile use, SnapCart delivers a seamless, professional e-commerce experience that showcases current web development best practices.
