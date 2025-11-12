@@ -1,0 +1,23 @@
+{
+  "short_name": "SnapCart",
+  "name": "SnapCart - Shop Smarter",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#E0F2FE",
+  "theme_color": "#0ea5e9",
+  "description": "SnapCart is a modern, offline-ready shopping PWA. Fast, friendly, and mobile-first.",
+  "orientation": "portrait",
+  "scope": "."
+}
